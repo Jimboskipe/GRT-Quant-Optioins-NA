@@ -1,0 +1,17 @@
+VIDEO INTRO — GRT Quant Options (Junior) (60–90 seconds)
+
+[0:00–0:15] Who
+Hi, I’m James Doyle from Wisconsin. Army veteran and IT student at SNHU. I’m applying for GRT’s junior quantitative options trader role — remote.
+
+[0:15–0:45] Proof + honesty
+I’ve been in markets and crypto for years. This past year I tightened into rules, journaling, risk limits, and Python tests. The portfolio shows those metrics, a small alpha sample, a kill log, and a short options primer on Greeks and vol. I’m applying as a junior — I don’t claim years of institutional OTC options trading.
+
+[0:45–1:05] Why GRT
+I want to learn OTC options pricing and hedging on tokens without listed markets, under people who do it for real — models, surfaces, automated hedges, Python dashboards.
+
+[1:05–1:15] Close
+Resume and projects are linked. Thanks for your time.
+
+NOTES
+- One video covers NA + APAC; use matching cover letter
+- Host Unlisted; paste into index.html later

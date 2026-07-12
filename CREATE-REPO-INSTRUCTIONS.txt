@@ -1,0 +1,32 @@
+CREATE REPO: GRT-Quant-Options-NA (Public, README OFF)
+
+Upload ALL contents of this folder:
+ C:\Job hunting\Weekend-1\01-GRT-Quant-Options-NA\portfolio
+
+into the repo ROOT
+(you must see index.html next to styles.css on the GitHub file list — NOT inside a folder named portfolio)
+
+Do NOT drag the outer folder named "portfolio".
+Open that folder first, select everything INSIDE it (Ctrl+A), then upload.
+
+Pages: Settings → Pages → Deploy from a branch → main → / (root) → Save
+
+Working URL (after Pages finishes, ~2 minutes):
+ https://jimboskipe.github.io/GRT-Quant-Options-NA/
+
+If you keep using the old typo repo (GRT-Quant-Optioins-NA) and files are still nested,
+use this temporary URL until you re-upload to ROOT:
+ https://jimboskipe.github.io/GRT-Quant-Optioins-NA/portfolio/
+
+Then submit GRT (same site for BOTH regions):
+Paste cover: COVER-NA.txt  → NA application
+Paste cover: COVER-APAC.txt → APAC application
+Attach / link resume: James-M-Doyle-Resume-GRT.txt
+
+Apply NA:
+ https://www.graniteriver.io/careers/position/?id=junior-quant-trader-us
+
+Apply APAC:
+ https://cryptocurrencyjobs.co/other/grt-quantitative-options-trader-junior-mid-level-apac/
+
+Do NOT create a second APAC website repo. One site covers both.

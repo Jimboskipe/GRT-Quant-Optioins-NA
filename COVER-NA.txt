@@ -1,0 +1,18 @@
+Subject: Quantitative Options Trader (Junior) — North America — James Mitchell Doyle
+
+Hello GRT hiring team,
+
+I am applying for the Quantitative Options Trader (Junior / Mid-Level) role — Remote North America.
+
+I am targeting the junior end of the seat. I have multi-year self-directed markets and crypto experience; over the last year I tightened into written rules, journaling, risk limits, and Python research/simulation. I am not claiming a multi-year institutional OTC options track record. I want to learn token options pricing, Greeks monitoring, and hedging workflows under senior traders.
+
+Portfolio proof (live site):
+https://jimboskipe.github.io/GRT-Quant-Optioins-NA/portfolio/
+
+Includes: journal metrics (R / expectancy / drawdown), alpha + rules backtest sample, risk + kill-criteria logs, and a learner options primer (Greeks, IV, covered call / cash-secured put).
+
+Remote from Weston, WI (U.S.). U.S. Army veteran · SNHU Information Technologies (in progress, ~2029) · 4.0 GPA to date.
+
+Thank you for your time,
+James Mitchell Doyle
+james.doyle6@snhu.edu · 608-417-0678

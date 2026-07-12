@@ -1,0 +1,5 @@
+idea_id,started,killed,trigger,hypothesis,what_we_learned,status
+MR-01,2025-09-12,2025-11-03,K1,5d mean-reversion on liquid US names after +2ATR stretch,Worked in chop; failed in trend regimes without trend filter,archived
+OB-MS-v0,2025-11-10,,K3,Sweep + displacement + OB retest 2R,Rules drifted during discretionary overrides — rewrite RULES.md before resume,paused
+TLM-proxy,2026-01-08,,K4,Prior-day H/L/M rotation with acceptance,PDH/PDL proxy != proprietary TLM; need cleaner session VA for fair test,research
+RS-momentum,2025-10-01,2026-02-14,K2,Relative strength vs SPY weekly,Drawdown exceeded simulation risk budget before costs,archived

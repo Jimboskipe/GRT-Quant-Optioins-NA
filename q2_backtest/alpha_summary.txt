@@ -1,0 +1,12 @@
+=== Q2b GAR alpha sample (mean-reversion + trend filter) ===
+Hypothesis: fade stretched returns only with the 50-bar trend.
+Params:     {'LOOKBACK': 20, 'TREND': 50, 'ENTRY_Z': 1.25, 'ACCOUNT': 100000.0, 'RISK_PCT': 1.25}
+Risk/trade: 1.25% ($1,250) on $100,000
+Trades:     6
+Win rate:   0.0%
+Expectancy: -1.00 R
+Total R:    -6.00
+Total P&L:  $-7,500.00
+
+Limitations: sample OHLC; no costs/slippage; not walk-forward; not a live edge.
+Kill path: see ../q3_kill_log/ if expectancy or DD fails.

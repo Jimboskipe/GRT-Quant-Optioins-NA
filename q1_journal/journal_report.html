@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"/>
+<title>Journal metrics — James Doyle</title>
+<style>
+body{font-family:Georgia,serif;max-width:900px;margin:2rem auto;padding:0 1rem;background:#0f1419;color:#e7ecf1}
+h1,h2{font-family:system-ui,sans-serif}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem}
+.card{background:#1a222c;padding:1rem;border-radius:8px}
+table{width:100%;border-collapse:collapse;font-size:0.9rem}
+td,th{border-bottom:1px solid #2a3540;padding:0.4rem;text-align:left}
+.muted{color:#9aa7b5}
+</style></head><body>
+<h1>Trading journal metrics</h1>
+<p class="muted">Demo sample (anonymized structure). Replace CSV with live journal export.</p>
+<div class="cards">
+  <div class="card"><strong>Trades</strong><div>15</div></div>
+  <div class="card"><strong>Win rate</strong><div>67%</div></div>
+  <div class="card"><strong>Expectancy</strong><div>+0.85 R</div></div>
+  <div class="card"><strong>Total</strong><div>+12.80 R</div></div>
+  <div class="card"><strong>Max DD</strong><div>-1.00 R</div></div>
+</div>
+<h2>Daily net R</h2>
+<table><thead><tr><th>Date</th><th>Net R</th></tr></thead><tbody><tr><td>2026-06-02</td><td>+1.75 R</td></tr><tr><td>2026-06-03</td><td>-0.75 R</td></tr><tr><td>2026-06-04</td><td>+2.00 R</td></tr><tr><td>2026-06-05</td><td>+1.60 R</td></tr><tr><td>2026-06-06</td><td>-1.00 R</td></tr><tr><td>2026-06-09</td><td>+1.50 R</td></tr><tr><td>2026-06-10</td><td>+1.20 R</td></tr><tr><td>2026-06-11</td><td>-0.80 R</td></tr><tr><td>2026-06-12</td><td>+2.40 R</td></tr><tr><td>2026-06-13</td><td>-0.60 R</td></tr><tr><td>2026-06-16</td><td>+1.80 R</td></tr><tr><td>2026-06-17</td><td>-1.00 R</td></tr><tr><td>2026-06-18</td><td>+1.50 R</td></tr><tr><td>2026-06-19</td><td>+2.20 R</td></tr><tr><td>2026-06-20</td><td>+1.00 R</td></tr></tbody></table>
+<h2>Trades</h2>
+<table><thead><tr><th>Date</th><th>Symbol</th><th>Side</th><th>R</th><th>Setup</th><th>Notes</th></tr></thead>
+<tbody><tr><td>2026-06-02</td><td>EURUSD</td><td>long</td><td>1.75</td><td>ob_ms</td><td>Clean displacement after OB; followed plan</td></tr><tr><td>2026-06-03</td><td>EURUSD</td><td>short</td><td>-0.75</td><td>ob_ms</td><td>Stopped; chased after invalidation</td></tr><tr><td>2026-06-04</td><td>XAUUSD</td><td>long</td><td>2.00</td><td>ob_ms</td><td>Session high liquidity sweep then continue</td></tr><tr><td>2026-06-05</td><td>XAUUSD</td><td>short</td><td>1.60</td><td>ob_ms</td><td>Held to target</td></tr><tr><td>2026-06-06</td><td>GBPUSD</td><td>long</td><td>-1.00</td><td>ob_ms</td><td>News spike; should have reduced size</td></tr><tr><td>2026-06-09</td><td>EURUSD</td><td>long</td><td>1.50</td><td>ob_ms</td><td>Good R:R</td></tr><tr><td>2026-06-10</td><td>NAS100</td><td>short</td><td>1.20</td><td>ob_ms</td><td>Partial at 1R</td></tr><tr><td>2026-06-11</td><td>NAS100</td><td>long</td><td>-0.80</td><td>ob_ms</td><td>False break</td></tr><tr><td>2026-06-12</td><td>XAUUSD</td><td>long</td><td>2.40</td><td>ob_ms</td><td>Best R week</td></tr><tr><td>2026-06-13</td><td>EURUSD</td><td>short</td><td>-0.60</td><td>ob_ms</td><td>Skipped second entry after loss (rule)</td></tr><tr><td>2026-06-16</td><td>GBPUSD</td><td>short</td><td>1.80</td><td>ob_ms</td><td>Plan followed</td></tr><tr><td>2026-06-17</td><td>XAUUSD</td><td>long</td><td>-1.00</td><td>ob_ms</td><td>Max daily loss stop hit — stopped trading</td></tr><tr><td>2026-06-18</td><td>EURUSD</td><td>long</td><td>1.50</td><td>ob_ms</td><td>Reset day; one A+ setup only</td></tr><tr><td>2026-06-19</td><td>NAS100</td><td>long</td><td>2.20</td><td>ob_ms</td><td>Trend day</td></tr><tr><td>2026-06-20</td><td>XAUUSD</td><td>short</td><td>1.00</td><td>ob_ms</td><td>Scaled out</td></tr></tbody></table>
+</body></html>

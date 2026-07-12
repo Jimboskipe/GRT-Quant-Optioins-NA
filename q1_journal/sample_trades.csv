@@ -1,0 +1,16 @@
+date,symbol,side,entry,exit,r_multiple,risk_pct,setup,notes
+2026-06-02,EURUSD,long,1.0820,1.0855,1.75,0.5,ob_ms,Clean displacement after OB; followed plan
+2026-06-03,EURUSD,short,1.0860,1.0875,-0.75,0.5,ob_ms,Stopped; chased after invalidation
+2026-06-04,XAUUSD,long,2320.0,2335.0,2.00,0.5,ob_ms,Session high liquidity sweep then continue
+2026-06-05,XAUUSD,short,2340.0,2332.0,1.60,0.5,ob_ms,Held to target
+2026-06-06,GBPUSD,long,1.2700,1.2685,-1.00,0.5,ob_ms,News spike; should have reduced size
+2026-06-09,EURUSD,long,1.0810,1.0840,1.50,0.5,ob_ms,Good R:R
+2026-06-10,NAS100,short,19500,19420,1.20,0.4,ob_ms,Partial at 1R
+2026-06-11,NAS100,long,19380,19350,-0.80,0.4,ob_ms,False break
+2026-06-12,XAUUSD,long,2310.0,2328.0,2.40,0.5,ob_ms,Best R week
+2026-06-13,EURUSD,short,1.0900,1.0912,-0.60,0.5,ob_ms,Skipped second entry after loss (rule)
+2026-06-16,GBPUSD,short,1.2750,1.2710,1.80,0.5,ob_ms,Plan followed
+2026-06-17,XAUUSD,long,2350.0,2342.0,-1.00,0.5,ob_ms,Max daily loss stop hit — stopped trading
+2026-06-18,EURUSD,long,1.0780,1.0810,1.50,0.5,ob_ms,Reset day; one A+ setup only
+2026-06-19,NAS100,long,19200,19310,2.20,0.4,ob_ms,Trend day
+2026-06-20,XAUUSD,short,2365.0,2355.0,1.00,0.5,ob_ms,Scaled out

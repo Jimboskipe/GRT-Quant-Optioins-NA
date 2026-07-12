@@ -1,0 +1,21 @@
+=== Q2 OB/MS rules v0 backtest ===
+Strategy: liquidity sweep -> displacement -> order-block retest -> 2R target
+See RULES.md (confirm parameters with James).
+Bars:       120
+Params:     {'SWING_L': 3, 'DISP_ATR': 1.2, 'TARGET_R': 2.0, 'MAX_DAILY_LOSS_R': -2.0, 'ACCOUNT_EQUITY': 100000.0, 'RISK_PCT': 1.25}
+Account:    $100,000
+Risk/trade: 1.25% ($1,250)
+Trades:     0
+Win rate:   0.0%
+Expectancy: +0.00 R
+Total R:    +0.00
+Total P&L:  $+0.00
+
+Limitations:
+- Proxy OB/MS on OHLC only (no footprint / true institutional volume).
+- Sample CSV may produce few/no trades; use MT5 fetch for real bars.
+- No commissions/slippage; stop+target same bar -> stop wins (conservative).
+- Markov filters not included in v0.
+
+Run: python run_backtest.py
+MT5: python fetch_mt5_sample.py then re-run.

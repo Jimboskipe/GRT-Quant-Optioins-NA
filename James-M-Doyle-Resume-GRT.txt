@@ -1,0 +1,35 @@
+JAMES MITCHELL DOYLE
+Weston, WI | james.doyle6@snhu.edu | 608-417-0678 | U.S. Army Veteran (62B-1P)
+Remote — North America (APAC hours available)
+
+PROFESSIONAL SUMMARY
+Applying for GRT Quantitative Options Trader (Junior / Mid) at the junior end of the band. Self-directed markets / crypto practitioner with multi-year experience; last year focused on rules, journaling, risk limits, and Python research/simulation. Building Greeks/vol literacy (see options primer) alongside coded alpha samples and risk monitors. Not claiming multi-year institutional OTC options tenure. Enrolled B.S. Information Technologies (SNHU, ~2029). Seeking remote junior quant options seat with high ownership under senior traders.
+
+CORE COMPETENCIES
+Python research loops | Risk limits & journaling (R, expectancy, drawdown) | Rules documentation | Kill criteria / idea hygiene | Crypto market structure curiosity | Options fundamentals (learner → desk-ready) | Clear written process
+
+GRT PORTFOLIO (this packet)
+* Q1 — Journal + risk metrics
+* Q2 — Alpha sample + rules backtest ($100k, 1.25% risk/trade)
+* Q3 — Risk monitor + kill-criteria log
+* Extra — Options primer (Greeks, IV, covered call / CSP)
+
+TECHNICAL PROJECTS
+Trading Performance / Journal Application | Python | In Development
+Alpha mean-reversion + trend gate sample | Python | This packet
+Ops Control Tower | SQL / Python | Portfolio
+
+PROFESSIONAL EXPERIENCE
+Founder | Red Eye Research | Remote / Weston, WI | 2025 - Present
+* Markets / crypto research; systematic journaling on funded prop accounts (process public; sizes private).
+Commercial Carpenter | Midwest Council of Carpenters | Madison, WI Area | 2022 - Present
+Owner / Operator | Doyle's Contracting LLC | Madison, WI | 2014 - 2022
+Construction Equipment Repairer, Parachutist (62B-1P) | U.S. Army | 2004 - 2007
+
+EDUCATION
+B.S. Information Technologies (In Progress) | SNHU | Expected ~2029 | Term 2 · 4.0 GPA
+
+FOR GRT RECRUITING
+* Role: Junior Quantitative Options Trader (OTC crypto options)
+* Remote NA primary; APAC timezone willingness if applying to APAC posting
+* Honesty: junior path / related experience via prop + simulation — not inventing institutional options years
